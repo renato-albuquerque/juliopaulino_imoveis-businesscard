@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](files/screencapture-jorgeimoveis-cartaodevisita.png)
+![screenshot]()
 
 ### Links
 
-- [Solution URL here](https://github.com/renato-albuquerque/jorge_imoveis-business_card)
-- [Live Site URL here](https://jorgeimoveis-cartaodevisita.vercel.app/)
+- [Solution URL here]()
+- [Live Site URL here]()
 
 ## My process
 
