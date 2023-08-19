@@ -130,10 +130,18 @@ body {
     align-items: center;
     gap: 6rem;
     margin-top: 4rem;
+}
+
+.thirdWrapIconsSection-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+    margin-top: 4rem;
     margin-bottom: 7rem;
 }
 
-.fa-globe, .fa-envelope, .fa-whatsapp, .fa-facebook, .fa-instagram, .fa-youtube, .fa-linkedin-in {
+.fa-globe, .fa-envelope, .fa-whatsapp, .fa-facebook, .fa-instagram, .fa-youtube, .fa-linkedin-in, .fa-x-twitter {
     font-size: 4rem;
     color: var(--white-color);
 }
