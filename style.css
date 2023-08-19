@@ -38,7 +38,7 @@ body {
 .section-1 {
     height: 35rem;
     background-image: url(files/marcozero-pernambuco.jpg);
-    background-position: center center;
+    background-position: right 13% center;
     background-size: cover;
     border-radius: 1rem 1rem 0 0;
 }

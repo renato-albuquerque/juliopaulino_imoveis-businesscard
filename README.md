@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here]()
-- [Live Site URL here]()
+- [Solution URL here](https://github.com/renato-albuquerque/juliopaulino_imoveis-businesscard)
+- [Live Site URL here](https://cartaodevisita-juliopaulinoimoveis.vercel.app/)
 
 ## My process
 
