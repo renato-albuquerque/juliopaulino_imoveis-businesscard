@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot]()
+![screenshot](files/screencapture-cartaodevisita-juliopaulinoimoveis.png)
 
 ### Links
 
